@@ -55,7 +55,4 @@
 cd time_series/isolation_forest_airpassengers
 python3 "Isolation forest.py"
 
-
-## 6. 결과 그래프
-
-![Isolation Forest Anomaly Detection](./Isolation_Forest_Passangers.png)
+```` ``` ````
